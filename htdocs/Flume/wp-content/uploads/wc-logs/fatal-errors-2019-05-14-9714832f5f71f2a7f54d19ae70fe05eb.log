@@ -1,0 +1,8 @@
+2019-05-14T09:49:01+00:00 CRITICAL Uncaught Error: Class '.responsive-menu-item' not found in /Applications/MAMP/htdocs/Flume/wp-content/plugins/responsive-menu/config/twig.php:25
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-content/plugins/responsive-menu/vendor/twig/twig/lib/Twig/Environment.php(462) : eval()'d code(19): {closure}(Object(Twig_Environment), Object(ResponsiveMenu\Collections\OptionsCollection))
+#1 /Applications/MAMP/htdocs/Flume/wp-content/plugins/responsive-menu/vendor/twig/twig/lib/Twig/Template.php(432): __TwigTemplate_4dec6f1eabc4efb5dd362759b632b4bc5af969d67ff9057cfbaf4396ee2d2c9c->doDisplay(Array, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-content/plugins/responsive-menu/vendor/twig/twig/lib/Twig/Template.php(403): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/responsive-menu/vendor/twig/twig/lib/Twig/Environment.php(462) : eval()'d code(48): Twig_Template->display(Array)
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/responsive-menu/vendor/twig in /Applications/MAMP/htdocs/Flume/wp-content/plugins/responsive-menu/config/twig.php on line 25
+

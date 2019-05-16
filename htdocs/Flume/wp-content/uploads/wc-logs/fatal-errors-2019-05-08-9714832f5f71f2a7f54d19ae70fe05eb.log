@@ -1,0 +1,200 @@
+2019-05-08T14:51:06+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:51:14+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:51:21+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:52:06+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:52:11+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:52:19+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:52:46+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:52:56+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:53:00+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:53:28+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:53:38+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:55:02+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:55:09+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:56:33+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T14:56:38+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T15:02:07+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T15:02:29+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T15:02:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T15:05:10+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+
+2019-05-08T15:05:16+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Gateway_PPEC_With_SPB::should_display_buttons_at_checkout() in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(286): WC_Gateway_PPEC_With_SPB->display_paypal_button('')
+#1 /Applications/MAMP/htdocs/Flume/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/Flume/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/templates/checkout/payment.php(53): do_action('woocommerce_rev...')
+#4 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2220): wc_get_template('checkout/paymen...', Array)
+#6 /Applications/MAMP/ in /Applications/MAMP/htdocs/Flume/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-with-spb.php on line 22
+

@@ -1,0 +1,260 @@
+/*
+Theme Name: Flume
+Description: Twenty Nineteen Child Theme
+Author: Michael Joe Cini
+Template: twentynineteen
+Version: 1.0.0
+Text Domain: twentynineteen-child
+*/
+
+.entry-title {
+  text-align: center;
+  color: #0E191A;
+}
+
+.entry .entry-title:before {
+  display: none;
+}
+
+.entry-content{
+  color: #0E191A;
+}
+
+.entry .entry-content a {
+    text-decoration: none;
+}
+
+/* Desktop */
+@media screen and (min-width: 650px){
+
+.vsel-container{
+  max-width: 60% !important;
+  margin: auto !important;
+  margin-top: 50px !important;
+}
+
+.woocommerce {
+  color: #0E191A;
+  max-width: 60% !important;
+  text-align: center;
+  margin: auto !important;
+  margin-top: 50px !important;
+}
+
+.wpcf7{
+  max-width: 60% !important;
+  text-align: center;
+  margin: auto !important;
+}
+
+.alignnormal {
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+}
+
+/* Mobile */
+@media screen and (max-width: 650px){
+.vsel-container{
+  max-width: 100% !important;
+  margin: 10px !important;
+  margin-top: 50px !important;
+  font-size: 3vw;
+}
+
+.woocommerce {
+  color: #0E191A;
+  max-width: 100% !important;
+  text-align: center;
+  margin: 15px !important;
+  margin-top: 50px !important;
+}
+
+.alignnormal {
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+
+}
+
+.vsel-meta{
+  color: #0E191A;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap: 14px;
+}
+
+.vsel-content{
+  border-bottom: 1px solid #0E191A;
+}
+
+.vsel-meta-link > a{
+  color: #ED1F27 !important;
+}
+
+.related.products{
+  display: none;
+}
+
+.price{
+  color: white;
+}
+
+.product_meta{
+  display: none;
+}
+
+.input-text{
+  font-family: -apple-system,Avenir,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+}
+
+.author-description .author-link, .comment-metadata, .comment-reply-link, .comments-title, .comment-author .fn, .discussion-meta-info, .entry-meta, .entry-footer, .main-navigation, .no-comments, .not-found .page-title, .error-404 .page-title, .post-navigation .post-title, .page-links, .page-description, .pagination .nav-links, .sticky-post, .site-title, .site-info, #cancel-comment-reply-link, h1, h2, h3, h4, h5, h6 {
+    font-family: -apple-system, Avenir, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.shop_table{
+  color: white;
+}
+
+.cart_totals {
+  color: white;
+}
+
+.metaslider {
+  max-width: 100% !important;
+  margin: auto !important;
+}
+
+.wp-block-woocommerce-product-category{
+  max-width: 100% !important;
+  margin: auto !important;
+  margin-top: 50px !important;
+}
+
+.site-branding-container {
+  text-align: center;
+  background-color: #0E191A;
+  padding: 1em;
+}
+
+.site-main {
+  max-width: 100% !important;
+}
+
+.site-header{
+  padding: 0;
+}
+
+.menu-item > a{
+  font-size: 15px;
+  color: #ED1F27 !important;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.site-title{
+  display: none;
+}
+
+.site-description:before{
+  display: none;
+}
+
+.onsale, .woocommerce-info, .woocommerce-store-notice {
+    background-color: #F26222 !important;
+}
+
+.woocommerce-MyAccount-navigation a{
+  color: white !important;
+  font-size: 15px;
+}
+
+.woocommerce-MyAccount-content {
+  font-size: 15px;
+  max-width: 100%;
+  margin: auto;
+}
+
+.image-filters-enabled .site-header.featured-image .site-featured-image:before, .image-filters-enabled .site-header.featured-image .site-featured-image:after, .image-filters-enabled .entry .post-thumbnail:before, .image-filters-enabled .entry .post-thumbnail:after, .main-navigation .sub-menu, .sticky-post, .entry .entry-content .wp-block-button .wp-block-button__link:not(.has-background), .entry .button, button, input[type="button"], input[type="reset"], input[type="submit"], .entry .entry-content > .has-primary-background-color, .entry .entry-content > *[class^="wp-block-"].has-primary-background-color, .entry .entry-content > *[class^="wp-block-"] .has-primary-background-color, .entry .entry-content > *[class^="wp-block-"].is-style-solid-color, .entry .entry-content > *[class^="wp-block-"].is-style-solid-color.has-primary-background-color, .entry .entry-content .wp-block-file .wp-block-file__button {
+    background-color: #ED1F27!important;
+}
+
+ul.products li.product .price, ul.products li.product .star-rating, ul.products li.product .woocommerce-loop-product__title {
+    color: #0E191A;
+}
+
+mark, ins {
+    background: #F26222;
+    text-decoration: none;
+}
+
+body{
+  background-color: #5BBBC4;
+  letter-spacing: 1px;
+  font-family: -apple-system,Avenir,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+.entry-content {
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.entry-header {
+  display: none;
+}
+
+.wp-block-image {
+  margin: 0 !important;
+}
+
+.wplc_live_chat_support_shortcode #wplc_hovercard {
+    top: 56px;
+    z-index: 0;
+}
+
+.wp-block-embed-youtube{
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+
+.single-product{
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+
+
+
+.wp-block-embed-spotify{
+  text-align: center;
+  max-width: 50% !important;
+  margin: auto !important;
+}
+
+#customer_login {
+  font-size: 15px;
+}
+
+#customer_login h2:before{
+  display: none;
+}
+
+#menu-social-menu{
+  text-align: center;
+}
+
+.widget_nav_menu{
+  max-width: 100% !important;
+  margin: auto !important;
+  width: 100% !important;
+}
+
+.responsive-menu-item {
+  margin: 15px !important;
+}
+
+.menu-item-object-custom{
+  display: inline-block;
+}
